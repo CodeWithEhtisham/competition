@@ -1,0 +1,6 @@
+PyPDF2
+streamlit
+langchain-ollama
+sounddevice
+faster-whisper
+TTS
