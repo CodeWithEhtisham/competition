@@ -1,4 +1,5 @@
-PyPDF2
+# PyPDF2
+pdfminer
 streamlit
 langchain-ollama
 sounddevice

@@ -3,7 +3,7 @@ import os
 import requests
 import tempfile
 import re
-from PyPDF2 import PdfReader
+# from PyPDF2 import PdfReader
 from langchain_ollama import ChatOllama
 from faster_whisper import WhisperModel
 import numpy as np
